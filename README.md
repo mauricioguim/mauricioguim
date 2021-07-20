@@ -6,6 +6,11 @@
 
 I'm currently in last period of the computer science course at [UFES](https://www.ufes.br/), and  I'm member of [Adapti](https://www.adapti.info/), where I'm a Full Stack developer. I also have interests in the area of ​​artificial intelligence.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mauricioguim)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mauricioguim)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mauricioguim)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mauricioguim)
+
 
 ### 👨‍💻 Programming languages
 
