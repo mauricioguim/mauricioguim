@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img 👋 width="40px" />, I'm Maurício</h1>
+<h1 align="center">Hi 👋, I'm Maurício</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mauricioguim" alt="mauricioguim" /> </p>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
