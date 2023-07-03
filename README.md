@@ -4,7 +4,7 @@
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
-I'm currently in last period of the computer science course at [UFES](https://www.ufes.br/), and  I'm member of [Adapti](https://www.adapti.info/), where I'm a Full Stack developer. I also have interests in the area of ​​artificial intelligence.
+I'm bacharel in computer science course at the [UFES](https://www.ufes.br/), and  I'm back-end developer at Dot.Lib.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mauricioguim)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mauricioguim)
