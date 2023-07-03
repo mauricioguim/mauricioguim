@@ -4,7 +4,7 @@
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
-I'm bacharel in computer science course at the [UFES](https://www.ufes.br/), and  I'm back-end developer at Dot.Lib.
+I'm bachelor degree in computer science from [UFES](https://www.ufes.br/), and  I'm back-end developer at Dot.Lib, where I mainly work with Laravel framework.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mauricioguim)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mauricioguim)
