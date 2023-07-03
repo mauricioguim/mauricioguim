@@ -27,15 +27,6 @@ I'm bachelor degree in computer science from [UFES](https://www.ufes.br/), and  
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/L-Laravel-red"></a>
-</p>
-
 ### 🗄️ Database
 
 <p>
